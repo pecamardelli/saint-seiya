@@ -1,0 +1,1 @@
+obj_gui_fight.enemy_talk	= "Es imposible que estes vivo.";

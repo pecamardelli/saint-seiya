@@ -1,0 +1,1 @@
+obj_gui_fight.player_talk	= "Marin!";

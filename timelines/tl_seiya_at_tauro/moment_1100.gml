@@ -1,0 +1,1 @@
+obj_gui_fight.enemy_talk = "Seiya, levantate. Recuerdas lo que hicimos? Debes usar la tecnica IAI.";

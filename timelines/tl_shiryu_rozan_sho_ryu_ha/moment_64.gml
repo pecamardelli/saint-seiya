@@ -1,0 +1,1 @@
+obj_player_attack.hspeed	= 30 * sign(obj_enemy.x - obj_player.x);

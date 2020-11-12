@@ -1,0 +1,1 @@
+obj_gui_fight.enemy_talk		= "Yo soportare este sufrimiento. Por favor no te des por vencido.";

@@ -1,0 +1,1 @@
+obj_gui_fight.player_talk	= "No puedo darme por vencido hasta que sepa si Marin es mi hermana o no.";

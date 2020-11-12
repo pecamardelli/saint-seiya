@@ -1,0 +1,1 @@
+scrShiryuAttacks(1);

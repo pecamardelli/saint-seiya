@@ -1,0 +1,1 @@
+obj_gui_fight.player_talk			= "Su cosmo-energia debe estar actuando sobre mi. Pero, como puede ser?";

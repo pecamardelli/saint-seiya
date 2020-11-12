@@ -1,0 +1,1 @@
+obj_gui_fight.player_talk	= "Finalmente se como derrotarte, Aldebaran. Preparate para el combate!";

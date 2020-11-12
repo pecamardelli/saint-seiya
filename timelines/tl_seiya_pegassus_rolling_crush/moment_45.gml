@@ -1,0 +1,1 @@
+scrSeiyaAttacks(3);
